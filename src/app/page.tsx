@@ -311,7 +311,7 @@ export default function Home() {
       <footer className="border-t border-zinc-900 py-12 text-center text-xs text-zinc-500">
         <div className="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <LogoABLabs className="scale-75 origin-left" />
-          <p>© {new Date().getFullYear()} AB Labs — Desenvolvimento de Sistemas Online. Todos os direitos reservados.</p>
+          <p>© 2026 AB Labs — Desenvolvimento de Sistemas Online. Todos os direitos reservados.</p>
         </div>
       </footer>
     </div>
